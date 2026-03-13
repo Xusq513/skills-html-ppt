@@ -3,8 +3,6 @@ name: html-ppt
 description: 创建交互式HTML PPT演示文稿。支持多套配色方案，根据用户提供的配色方案、主题、每页标题和内容生成精美的HTML幻灯片。
 ---
 
-> 📖 **项目文档**: [README.md](./README.md) | [English](./README_EN.md)
-
 ## 技能概述
 
 这是一个用于创建交互式HTML PPT演示文稿的技能。基于现有的PPT模板，支持多套配色方案，用户只需提供主题、配色和每页内容即可生成专业美观的演示文稿。
