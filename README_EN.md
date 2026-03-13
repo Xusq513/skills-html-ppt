@@ -2,6 +2,8 @@
 
 A Claude Code skill for creating interactive HTML presentations. Simply provide the theme, color scheme, and content to generate professional-looking PPT files.
 
+> **Tip**: For creating more beautiful frontend interfaces, consider also installing the [frontend-design](https://github.com/anthropics/skills/tree/main/skills) skill.
+
 ## Features
 
 - **8 Preset Color Schemes** - Cyberpunk, Business Blue, Dark Purple, Forest Green, etc.

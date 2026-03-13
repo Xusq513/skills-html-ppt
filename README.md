@@ -4,6 +4,8 @@
 
 [English](./README_EN.md) | 中文
 
+> **建议**：如需创建更精美的前端界面，建议同时安装 [frontend-design](https://github.com/anthropics/skills/tree/main/skills) 技能。
+
 ## 特性
 
 - **多套预设配色** - 赛博朋克、商务蓝、暗夜紫、森林绿等8套方案
